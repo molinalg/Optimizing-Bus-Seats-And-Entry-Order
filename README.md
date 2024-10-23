@@ -1,7 +1,7 @@
 # Optimizing Bus Seats and Entry Order
 
 ## Description
-Developed in 2022, "Optimizing Bus Seats and Entry Order" is a university project made during the second course of Computer Engineering at UC3M in collaboration with @AliciaBR02.
+Developed in 2022, "Optimizing Bus Seats and Entry Order" is a university project made during the third course of Computer Engineering at UC3M in collaboration with @AliciaBR02.
 
 It was made for the subject "Heuristics and Optimization" and is the solution to a problem proposed. The main goal of this project was to put in practice our knowledge about **Constraints** and **Heuristic Search** to solve optimization problems. Although it is independent, the theme of this project is a continuation of [this one](https://github.com/molinalg/Optimal-Route-Assignment).
 
